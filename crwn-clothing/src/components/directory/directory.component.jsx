@@ -11,33 +11,37 @@ class Directory extends React.Component {
       sections: [
         {
           title: "hats",
-          imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+          imageUrl:
+            "https://images.freeimages.com/images/large-previews/c89/hat-1422640.jpg",
           id: 1,
           linkUrl: "shop/hats",
         },
         {
           title: "jackets",
-          imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+          imageUrl:
+            "https://images.freeimages.com/images/large-previews/193/jacket-1476507.jpg",
           id: 2,
           linkUrl: "shop/jackets",
         },
         {
           title: "sneakers",
           imageUrl:
-            "https://pnghost.com/png-free/sneakers-skate-shoe-high-top-basketball-shoe-muddy-sneakers-inc-png/ird2t8WURc",
+            "https://images.freeimages.com/images/large-previews/f23/blue-suede-shoes-1-1478929.jpg",
           id: 3,
           linkUrl: "shop/sneakers",
         },
         {
           title: "womens",
-          imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+          imageUrl:
+            "https://images.freeimages.com/images/large-previews/f4a/dancing-women-1431085.jpg",
           size: "large",
           id: 4,
           linkUrl: "shop/womens",
         },
         {
           title: "mens",
-          imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+          imageUrl:
+            "https://images.freeimages.com/images/large-previews/74a/man-silhouette-1525996.jpg",
           size: "large",
           id: 5,
           linkUrl: "shop/mens",
